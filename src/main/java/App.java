@@ -14,7 +14,7 @@ public class App {
 
         System.out.println(deSerialPerson);
 
-        System.out.println(deSerialPerson.hashCode());
+
 
 
 
